@@ -11,7 +11,7 @@ jobs:
       BUCKET: www.dawit.tech
       DIST: build
       REGION: us-east-1
-      DIST_ID: E20TD3LPS0UK6
+      DIST_ID: 	E1DC7P4Y3K1C6M
 
     steps:
     - name: Checkout code
@@ -27,7 +27,7 @@ jobs:
     - name: Set up Node.js environment
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '16'
 
     - name: Install Dependencies
       run: |
