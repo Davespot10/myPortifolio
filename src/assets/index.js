@@ -1,7 +1,7 @@
 import logo from "./tech/Favicon.png";
 import backend from "./rest API.png";
 import creator from "./spring and spring boot .png";
-import mobile from "./java.png";
+import mobile from "./Java.png";
 import web from "./backend developer.png";
 import github from "./github.png";
 import menu from "./menu.svg";
