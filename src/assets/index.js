@@ -28,7 +28,7 @@ import neo4j from "./tech/neo4j.png";
 
 import meta from "./company/meta.png";
 import Singtan from "./company/Singtan.png";
-import Huawie from "./company/Huawie.png";
+import Huawie from "./company/huawie.png";
 import tesla from "./company/tesla.png";
 
 import library from "./tech/library.png";
