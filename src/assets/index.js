@@ -1,7 +1,7 @@
 import logo from "./tech/Favicon.png";
 import backend from "./rest API.png";
 import creator from "./spring and spring boot .png";
-// import mobile from "./java.png";
+import mobile from "./java.png";
 import web from "./backend developer.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -15,7 +15,7 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
-// import Angular from "./tech/Angular.png";
+import Angular from "./tech/Angular.png";
 import MySql from "./tech/MySql.png";
 import spring from "./tech/spring.png";
 import springBoot from "./tech/springBoot.png";
@@ -28,7 +28,7 @@ import neo4j from "./tech/neo4j.png";
 
 import meta from "./company/meta.png";
 import Singtan from "./company/Singtan.png";
-// import Huawie from "./company/Huawie.png";
+import Huawie from "./company/Huawie.png";
 import tesla from "./company/tesla.png";
 
 import library from "./tech/library.png";
@@ -41,7 +41,7 @@ export {
   logo,
   backend,
   creator,
-  // mobile,
+  mobile,
   web,
   github,
   menu,
@@ -54,7 +54,7 @@ export {
   javascript,
   mongodb,
   nodejs,
-  // Angular,
+  Angular,
   MySql,
   spring,
   springBoot,
@@ -66,7 +66,7 @@ export {
   neo4j,
   meta,
   Singtan,
-  // Huawie,
+  Huawie,
   tesla,
   library,
   question_and_answer,
