@@ -1,6 +1,6 @@
 import logo from "./tech/Favicon.png";
 import backend from "./rest API.png";
-import creator from "./spring and spring boot .png";
+import creator from "https://res.cloudinary.com/diyjdfac9/image/upload/v1679441639/Screen_Shot_2023-03-21_at_6.33.42_PM_xku4sl.png";
 import mobile from "./Java.png";
 import web from "./backend developer.png";
 import github from "./github.png";
