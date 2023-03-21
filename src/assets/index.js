@@ -28,7 +28,7 @@ import neo4j from "./tech/neo4j.png";
 
 import meta from "./company/meta.png";
 import Singtan from "./company/Singtan.png";
-import Huawie from "./company/Huawie.png";
+// import Huawie from "./company/Huawie.png";
 import tesla from "./company/tesla.png";
 
 import library from "./tech/library.png";
@@ -66,7 +66,7 @@ export {
   neo4j,
   meta,
   Singtan,
-  Huawie,
+  // Huawie,
   tesla,
   library,
   question_and_answer,
