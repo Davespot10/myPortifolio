@@ -42,11 +42,16 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            Dawit &nbsp;
-            <span className="sm:block hidden"> | Portfolio</span>
-          </p>
+        <img
+  src="https://res.cloudinary.com/diyjdfac9/image/upload/v1679441263/dawit_uyrs0t.png"
+  alt="logo"
+  className="w-20 h-20 object-contain rounded-full"
+/>
+<p className="text-white text-[18px] font-bold cursor-pointer flex ">
+  Dawit &nbsp;
+  <span className="sm:block hidden"> | Portfolio</span>
+</p>
+
         </Link>
 
         <ul className="list-none hidden sm:flex flex-row gap-10">
