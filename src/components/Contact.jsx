@@ -23,12 +23,18 @@ const Contact = () => {
     const { name, value } = e.target;
     setForm({ ...form, [name]: value });
   };
+  const generateUniqueId = () => {
+    return Math.random().toString(36).substr(2, 9);
+  };
+  
 
   const handleSubmit = (e) => {
+    
     e.preventDefault();
     setLoading(true);
       e.preventDefault();
-      let data = {
+    let data = {
+        "id": generateUniqueId(),
         "name": form.name,
         "email": form.email,
         "phone": form.phone,
@@ -105,6 +111,7 @@ const Contact = () => {
             />
           </label>
           </label>
+
           <label className="flex flex-col">
             <span className="text-white font-medium mb-4">Your Message</span>
             <textarea
