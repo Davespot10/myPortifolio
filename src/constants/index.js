@@ -66,7 +66,7 @@ const services = [
   },
   {
     title: "Spring and Spring Boot Develoepr",
-    icon: creator,
+    icon: "https://res.cloudinary.com/diyjdfac9/image/upload/v1679442025/Screen_Shot_2023-03-21_at_6.40.11_PM_cq2rs4.png",
   },
 ];
 
