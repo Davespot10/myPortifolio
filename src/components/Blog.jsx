@@ -16,7 +16,7 @@ const Blogs = () => {
               style={{ width: "50%" }}
             />
             
-            <p>😀 Click the bellow👇 link to visit the blog!!😀</p>
+            <p>😀 Click the bellow👇 link to visit the blog!😀</p>
           </div>
           <div className="flex justify-center pb-8">
             <a
