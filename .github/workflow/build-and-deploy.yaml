@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       BUCKET: www.dawit.tech
-      DIST: dist
+      DIST: build
       REGION: us-east-1
       DIST_ID: E20TD3LPS0UK6
 
@@ -27,7 +27,7 @@ jobs:
     - name: Set up Node.js environment
       uses: actions/setup-node@v2
       with:
-        node-version: '16'
+        node-version: '14'
 
     - name: Install Dependencies
       run: |
