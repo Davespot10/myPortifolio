@@ -15,7 +15,7 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
-import Angular from "./tech/Angular.png";
+import Angular from "./tech/angular.png";
 import MySql from "./tech/MySql.png";
 import spring from "./tech/spring.png";
 import springBoot from "./tech/springBoot.png";
