@@ -41,7 +41,7 @@ export {
   logo,
   backend,
   creator,
-  mobile,
+  // mobile,
   web,
   github,
   menu,
