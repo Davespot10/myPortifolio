@@ -20,7 +20,7 @@ const Blogs = () => {
           </div>
           <div className="flex justify-center pb-8">
             <a
-              href="https://medium.com/@avyrwl1/a-step-by-step-guide-to-deploy-lambda-using-sam-and-vs-code-fb98b9736a62"
+              href="https://medium.com/@davespot10/a-comprehensive-guide-to-deploying-a-react-app-with-aws-s3-git-actions-and-cloudfront-ad076a42126d"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 transition-colors duration-200"

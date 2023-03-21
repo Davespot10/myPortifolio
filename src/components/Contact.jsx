@@ -87,6 +87,9 @@ const Contact = () => {
               onChange={handleChange}
               placeholder="What's your name?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
+              required
+              onInvalid={(e) => e.target.setCustomValidity('Name is required')}
+              onInput={(e) => e.target.setCustomValidity('')}
             />
           </label>
           <label className="flex flex-col">
@@ -121,6 +124,9 @@ const Contact = () => {
               onChange={handleChange}
               placeholder="What do you want to say?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
+              required
+              onInvalid={(e) => e.target.setCustomValidity('Message is required')}
+              onInput={(e) => e.target.setCustomValidity('')}
             />
           </label>
 
