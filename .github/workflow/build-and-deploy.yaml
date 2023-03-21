@@ -11,11 +11,11 @@ jobs:
       BUCKET: www.dawit.tech
       DIST: build
       REGION: us-east-1
-      DIST_ID: 	E1DC7P4Y3K1C6M
+      DIST_ID: E20TD3LPS0UK6
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v1
+      uses: actions/checkout@v2
 
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
