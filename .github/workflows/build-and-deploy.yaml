@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       BUCKET: www.dawit.tech
-      DIST: dist
+      DIST: build
       REGION: us-east-1
       DIST_ID: E20TD3LPS0UK6
 
